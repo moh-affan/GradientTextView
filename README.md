@@ -18,7 +18,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.moh-affan:GradientTextView:Tag'
+    implementation 'com.github.moh-affan:GradientTextView:0.1.0'
 }
 ```
 
