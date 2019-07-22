@@ -53,11 +53,11 @@ dependencies {
 ```
 
 ## Attributes
-### 1. `color_start` (color) : Start color of the gradient
-### 2. `color_middle` (color): Middle color of the gradient, may not used
-### 3. `color_end` (color): End color of the gradient, may not used
-### 4. `with_shadow` (boolean): whether to use shadow or not 
-### 5. `shadow_color` (color): the color of the shadow 
-### 6. `shadow_radius` (float): the radius of the shadow 
-### 7. `shadow_dx` (float): the distance of x axis of the shadow 
-### 8. `shadow_dy` (float): the distance of y axis of the shadow 
+#### 1. `color_start` (color) : Start color of the gradient
+#### 2. `color_middle` (color): Middle color of the gradient, may not used
+#### 3. `color_end` (color): End color of the gradient, may not used
+#### 4. `with_shadow` (boolean): whether to use shadow or not 
+#### 5. `shadow_color` (color): the color of the shadow 
+#### 6. `shadow_radius` (float): the radius of the shadow 
+#### 7. `shadow_dx` (float): the distance of x axis of the shadow 
+#### 8. `shadow_dy` (float): the distance of y axis of the shadow 
