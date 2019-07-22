@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GradientTextView">
+        <attr name="color_start" format="color" />
+        <attr name="color_end" format="color" />
+        <attr name="color_middle" format="color" />
+        <attr name="with_shadow" format="boolean" />
+        <attr name="shadow_dx" format="float" />
+        <attr name="shadow_dy" format="float" />
+        <attr name="shadow_color" format="color" />
+        <attr name="shadow_radius" format="float" />
+    </declare-styleable>
+</resources>
